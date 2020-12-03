@@ -1,7 +1,13 @@
 ### Hi there 👋
 Welcome to my github!
 
+
+
+### Additional Information:
+
 Managment Engineering @ uWaterloo
+
+www.aryanved.com
 <!--
 **aryanxved/aryanxved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
