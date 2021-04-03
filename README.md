@@ -5,7 +5,7 @@ Welcome to my github!
 
 ### Additional Information:
 
-Managment Engineering @ uWaterloo
+Management Engineering @ The University of Waterloo
 
 www.aryanved.com
 <!--
