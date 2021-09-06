@@ -1,13 +1,25 @@
 ### Hi there 👋
-Welcome to my github!
+My name is **Aryan**.
 
+Welcome to my **Github**!
 
+### About Me 😄
 
-### Additional Information:
+- I study ``Management Engineering`` @ The University of Waterloo
+- I enjoy solving ``problems`` and creating ``solutions``
+- I am always open to ``collaborating`` on new projects  
 
-Management Engineering @ The University of Waterloo
+### Improving Skills In... 🌱
+- ``HTML`` ``CSS`` ``Java`` ``C#``
+- ``3D-printing`` ``Autodesk Inventor (CAD Software)``
+- ``Microsoft Office`` ``G-Suite`` ``Adobe Creative Cloud`` 
+- ``Figma`` ``Unity`` ``Arduino``
 
-www.aryanved.com
+### Contact Me 📫
+- Email: aryanxved@gmail.com
+- Linkedin: https://www.linkedin.com/in/aryanved/
+- Website: www.aryanved.com
+
 <!--
 **aryanxved/aryanxved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
