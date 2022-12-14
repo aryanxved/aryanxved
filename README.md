@@ -15,7 +15,7 @@ Welcome to my **Github**!
 - ``Microsoft Office`` ``G-Suite`` ``Adobe Creative Cloud`` 
 - ``Figma`` ``Unity`` ``Arduino``
 
-### Past Internships... ⚡
+### Past Internships ⚡
 - ``Software Developer Intern`` @ Manulife Financial Corporation
 - ``Augmented Reality Developer Intern`` @ The Estee Lauder Companies Inc.
 - ``Virtual Reality Designer Intern`` @ Preschool Canada
