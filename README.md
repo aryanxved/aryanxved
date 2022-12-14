@@ -17,7 +17,7 @@ Welcome to my **Github**!
 
 ### Past Internships ⚡
 - ``Software Developer Intern`` @ Manulife Financial Corporation
-- ``Augmented Reality Developer Intern`` @ The Estee Lauder Companies Inc.
+- ``Augmented Reality Developer Intern`` @ The Estèe Lauder Companies Inc.
 - ``Virtual Reality Designer Intern`` @ Preschool Canada
 
 ### Contact Me 📫
