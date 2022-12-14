@@ -15,6 +15,11 @@ Welcome to my **Github**!
 - ``Microsoft Office`` ``G-Suite`` ``Adobe Creative Cloud`` 
 - ``Figma`` ``Unity`` ``Arduino``
 
+### Past Internships... ⚡
+- ``Software Developer Intern`` @Manulife Financial
+- ``Augmented Reality Developer Intern`` @ The Estee Lauder Companies
+- ``Virtual Reality Designer Intern`` @ Preschool Canada
+
 ### Contact Me 📫
 - Email: aryanxved@gmail.com
 - Linkedin: https://www.linkedin.com/in/aryanved/
