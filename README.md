@@ -16,8 +16,8 @@ Welcome to my **Github**!
 - ``Figma`` ``Unity`` ``Arduino``
 
 ### Past Internships... ⚡
-- ``Software Developer Intern`` @Manulife Financial
-- ``Augmented Reality Developer Intern`` @ The Estee Lauder Companies
+- ``Software Developer Intern`` @ Manulife Financial Corporation
+- ``Augmented Reality Developer Intern`` @ The Estee Lauder Companies Inc.
 - ``Virtual Reality Designer Intern`` @ Preschool Canada
 
 ### Contact Me 📫
