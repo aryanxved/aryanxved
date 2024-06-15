@@ -16,6 +16,8 @@ Welcome to my **Github**!
 - ``Figma`` ``Unity`` ``Arduino``
 
 ### Past Internships ⚡
+- ``Software Developer Intern`` @ Shoplogix (Constellation Software)
+- ``Application Developer Intern`` @ Royal Bank of Canada (RBC)
 - ``Software Developer Intern`` @ Manulife Financial Corporation
 - ``Augmented Reality Developer Intern`` @ The Estèe Lauder Companies Inc.
 - ``Virtual Reality Designer Intern`` @ Preschool Canada
