@@ -10,12 +10,13 @@ Welcome to my **Github**!
 - I am always open to ``collaborating`` on new projects  
 
 ### Improving Skills In... 🌱
-- ``HTML`` ``CSS`` ``Java`` ``C#``
+- ``React`` ``Typescript`` ``C#`` ``Java`` ``React Native`` ``Kotlin``
 - ``3D-printing`` ``Autodesk Inventor (CAD Software)``
 - ``Microsoft Office`` ``G-Suite`` ``Adobe Creative Cloud`` 
 - ``Figma`` ``Unity`` ``Arduino``
 
 ### Past Internships ⚡
+- ``Full Stack Software Engineering Intern`` @ Relay Financial Technologies
 - ``Software Developer Intern`` @ Shoplogix (Constellation Software)
 - ``Application Developer Intern`` @ Royal Bank of Canada (RBC)
 - ``Software Developer Intern`` @ Manulife Financial Corporation
